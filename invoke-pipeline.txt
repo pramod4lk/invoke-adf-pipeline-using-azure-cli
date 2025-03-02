@@ -1,0 +1,3 @@
+az datafactory pipeline create-run --factory-name ras3-sff-adf-demo \
+    --resource-group your_resource_group_name \
+    --name PL_SFF_Demo
